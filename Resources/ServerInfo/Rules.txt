@@ -46,7 +46,7 @@ Quaisquer perguntas você poderá dirigir a staff no F1!
     - Não converse com outros jogadores por fora do jogo no mesmo round.
     - Jogadores podem ter amizades em IC, mas garantir benefícios para esses amigos é proibido.
     - Você é permitido se lembrar do que rolou em outros rounds, mas não o fim trágico deles, não faria sentido para alguém do sindicato do nada trabalhar pra Nanotrasen, da mesma forma que você também não deve carregar mágoas de conflitos passados.
-    - Jogadores que entram só pra ver se 
+    - Jogadores que entram só pra ver se ganham antag e depois saem ao não ganhar serão punidos.
     - [color=#ff0000]Não transmita o round ao vivo sem permissão de um admnistrador.[/color]
 
 [color=#a4885c]5.[/color] Jogadores revividos esquecem o que aconteceu nos últimos cinco minutos antes de sua morte, a menos que a ressurreição tenha sido feita com um deibrilador. [color=#ff0000]Denuncie jogadores que violarem essa regra.[/color]
